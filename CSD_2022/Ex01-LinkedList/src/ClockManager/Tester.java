@@ -11,10 +11,7 @@ import ClockList.ClockList;
 import Validation.MyValidation;
 import java.util.Scanner;
 
-/**
- *
- * @author Tran Phong <phongntse150974@fpt.edu.vn>
- */
+
 public class Tester {
     public static void main(String[] args) {
         // Menu here
